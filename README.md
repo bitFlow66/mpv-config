@@ -1,4 +1,8 @@
 # mpv config
+## Usage
+- Install mpv
+- Clone the repo into the mpv config folder usually in `~/config/mpv`
+
 ## Used scripts
 - Reload
     - Reloads a streamed video if errors occure
@@ -16,7 +20,7 @@
     - https://github.com/Eisa01/mpv-scripts#smarthistory-script - 072908a
 
 
-## Used script-modules
+### Used script-modules
 - Scroll-script
     - Helper to generate scrallabel lists
     - https://github.com/CogentRedTester/mpv-scroll-list - 1a12e4a
