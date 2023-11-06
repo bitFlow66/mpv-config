@@ -27,3 +27,11 @@
 - mpv-user-input
     - Helper to get input from user
     - https://github.com/CogentRedTester/mpv-user-input - 2b4de99
+
+
+## TODO
+- Add following:
+    - https://gitlab.com/lvml/mpv-plugin-streamcache
+    - https://github.com/bloc97/Anime4K
+    - https://github.com/oe-d/control
+    - https://github.com/Seme4eg/mpv-scripts/tree/master#leader (Use whitchKey instead of keybind search list)
