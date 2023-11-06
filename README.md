@@ -11,6 +11,9 @@
 - Keybind search list
     - Show with F12 and Shift-F12 a searchable list of keybinds
     - https://github.com/CogentRedTester/mpv-search-page - 23c2b2d
+- SimpleHistory
+    - With h or r list with logged last played videos can be shown and resumed
+    - https://github.com/Eisa01/mpv-scripts#smarthistory-script - 072908a
 
 
 ## Used script-modules
