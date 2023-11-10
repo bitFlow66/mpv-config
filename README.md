@@ -18,6 +18,10 @@
 - SimpleHistory
     - With h or r list with logged last played videos can be shown and resumed
     - https://github.com/Eisa01/mpv-scripts#smarthistory-script - 072908a
+- Anime4K Upscaler
+    - With Ctrl-(0-6) different pipelines can be activated. Try which works best!
+    - https://github.com/bloc97/Anime4K - 8e39551
+
 
 
 ### Used script-modules
@@ -32,6 +36,5 @@
 ## TODO
 - Add following:
     - https://gitlab.com/lvml/mpv-plugin-streamcache
-    - https://github.com/bloc97/Anime4K
     - https://github.com/oe-d/control
     - https://github.com/Seme4eg/mpv-scripts/tree/master#leader (Use whitchKey instead of keybind search list)
