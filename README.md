@@ -1,7 +1,7 @@
 # mpv config
-## Usage
+## Installation
 - Install mpv
-- Clone the repo into the mpv config folder usually in `~/config/mpv`
+- Clone the repo into the mpv config folder usually in `~/.config/mpv`
 
 ## Used scripts
 - Reload
@@ -16,6 +16,7 @@
     - Show with F12 and Shift-F12 a searchable list of keybinds
     - https://github.com/CogentRedTester/mpv-search-page - 23c2b2d
 - SimpleHistory
+    - Changes have to be made in ./script-opts/SimpleHistory.conf (not in script itself!!)
     - With h or r list with logged last played videos can be shown and resumed
     - https://github.com/Eisa01/mpv-scripts#smarthistory-script - 072908a
 - Anime4K Upscaler
