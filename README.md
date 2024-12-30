@@ -33,6 +33,13 @@
     - Helper to get input from user
     - https://github.com/CogentRedTester/mpv-user-input - 2b4de99
 
+## Shortcuts
+ **Shortcut** | **Description**
+--------------|---------------------
+ h/H          | Open history
+ r/R          | Open recent history
+ Strg \+ f    | Search history
+
 
 ## TODO
 - Add following:
